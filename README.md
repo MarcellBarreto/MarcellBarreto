@@ -23,16 +23,6 @@ Estou em transição de carreira para o desenvolvimento backend. Estudo Java em 
 - Responsabilidades separadas: só a `Main` conversa com o terminal, e as regras ficam no `GerenciadorTarefas` e na entidade `Tarefa`.
 - Validações dentro da própria entidade e uso de `enum` para as prioridades.
 
-### Outros projetos
-
-| Projeto | O que faz | O que pratiquei |
-|---|---|---|
-| [**lotiva-quadras-api**](https://github.com/MarcellBarreto/lotiva-quadras-api) | API REST de cadastro de quadras, com CRUD completo e respostas em JSON. | Ruby on Rails, rotas REST, validação |
-| [**Boarding-School**](https://github.com/MarcellBarreto/Boarding-School) | Controle de aluguel de quartos de um pensionato: cadastro de estudantes e lista de quartos ocupados. | Arrays, orientação a objetos |
-| [**stock**](https://github.com/MarcellBarreto/stock) | Controle de estoque com entrada e saída de produtos. | Classes, encapsulamento |
-| [**height-statistics**](https://github.com/MarcellBarreto/height-statistics) | Lê dados de pessoas e calcula a altura média e o percentual de menores de 16 anos. | Arrays, laços |
-| [**Java-Nelio-Alves-Exercises**](https://github.com/MarcellBarreto/Java-Nelio-Alves-Exercises) | Exercícios do curso organizados por seção, de estruturas condicionais a composição. | Histórico de aprendizado |
-
 ### Tecnologias
 
 **Uso hoje**
@@ -51,6 +41,7 @@ Estou em transição de carreira para o desenvolvimento backend. Estudo Java em 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Próximos na trilha**
 
